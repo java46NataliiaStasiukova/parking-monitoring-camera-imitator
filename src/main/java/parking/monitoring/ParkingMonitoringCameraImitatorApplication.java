@@ -34,11 +34,5 @@ public class ParkingMonitoringCameraImitatorApplication {
 
 }
 
-////Test
-//ConfigurableApplicationContext ctx = SpringApplication.run(ParkingMonitoringCameraImitatorApplication.class,  args);
-//CameraScanImitatorImpl test = new CameraScanImitatorImpl();
-//var test1 = ctx.getBean(CameraScanImitator.class);
-//for(int i = 0; i < 50; i++) {
-//	test1.nextCameraScan();
-//}
+
 
